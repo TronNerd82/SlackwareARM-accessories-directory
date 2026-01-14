@@ -22,7 +22,7 @@ Other items can be used, such as NVMe drives if the hardware supports it, and so
 Here reside the links to any and all hardware that users of Slackware ARM contribute to this page. Hardware is grouped by the release of Slackware ARM the user is running/targeting, and subgrouped into additional categories based on hardware device type, such as USB, networking, PCI, etc. If a category you'd like to see does not exist, feel free to open an issue suggesting a new category; in most cases, I'd be more than happy to add it if it seems necessary.
 
 ### Releases
-Currently, the only two supported releases of Slackware ARM are: Slackware ARM 15.0, the 32-bit stable release, and Slackware AArch64 -current, the 64-bit development/rolling branch. Once Slackware ARM 15.1 comes out, 32-bit ARM support will be gone. Releases before 15.0 that are EOL (End-Of-Life) may also have links contributed via a separate .md file. Once a currently-supported release becomes EOL, it will be moved to the file for EOL releases.
+Currently, the only two supported releases of Slackware ARM are: Slackware ARM 15.0, the 32-bit stable release, and Slackware AArch64 -current, the 64-bit development/rolling branch. Once Slackware ARM 15.1 comes out, 32-bit ARM support will be gone. Releases before 15.0 that are EOL (End-Of-Life) may also have links contributed via the EOL.md file. Once a currently-supported release becomes EOL, it will be moved to that file.
 
 #### Slackware ARM 15.0 (32-bit)
 ##### USB devices
