@@ -14,7 +14,7 @@ The creation of this GitHub repo was inspired by a suggestion from Stuart Winter
 Other items can be used, such as NVMe drives if the hardware supports it, and some devices like the USB-to-serial adapter are unnecessary if they don't fit your needs. Just know that such setups are TECHNICALLY unsupported by the Slackware ARM project, though many users will have little to no issue using such varied setups. Your mileage may vary.
 
 ## How to contribute
-  Start a pull request with your edits of the README.md file. Include (on a new line below the bottom link) one or more links to the accessories you'd like added to the directory.
+  Start a pull request with your edits of the README.md file. Include (on a new line below the bottom link of the appropriate category) one or more links to the accessories you'd like added to the directory.
   You must give the name of the product, followed by the link itself enclosed in parentheses ( like this ). Then add a section in brackets [ like this ] with the phrase "contributed by 'your GitHub username'" so proper credit can be given.
   I don't check GitHub as often as I should, so your contributions, valued as they are, may not be added right away, but I'll certainly try to add them in a timely fashion.
 
