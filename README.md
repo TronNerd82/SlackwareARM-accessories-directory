@@ -1,4 +1,4 @@
-# SlackwareARM accessories directory
+# Slackware ARM accessories directory
 A user-contributed directory of links to purchase accessory hardware required by or otherwise benefiting the user experience of Slackware ARM
 
 The creation of this GitHub repo was inspired by a suggestion from Stuart Winter, the lead maintainer of Slackware ARM, seen in this thread on the LinuxQuestions forum ( https://www.linuxquestions.org/questions/slackware-arm-108/user-contributed-links-to-accessory-hardware-required-recommended-by-slackware-arm-4175757312/ ). Links posted on this thread will also be included here, with credit given to the LQ user who posted it.
