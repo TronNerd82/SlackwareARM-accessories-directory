@@ -17,4 +17,31 @@ Other items can be used, such as NVMe drives if the hardware supports it, and so
   I don't check GitHub as often as I should, so your contributions, valued as they are, may not be added right away, but I'll certainly try to add them in a timely fashion.
 
 ## User-contributed links directory
+
+### Releases
+
+#### Slackware ARM 15.0 (32-bit)
+##### USB devices
+To be populated
+##### Networking
+To be populated
+##### Storage
+To be populated
+##### Miscellaneous
+To be populated
+
+----------
+
+#### Slackware AArch64 -current (64-bit)
+##### USB devices
+To be populated
+##### Networking
+To be populated
+##### Storage
+To be populated
+##### PCI devices
+To be populated
+##### Pi hats
+To be populated
+##### Miscellaneous
 To be populated
