@@ -1,6 +1,8 @@
 # SlackwareARM accessories directory
 A user-contributed directory of links to purchase accessory hardware required by or otherwise benefiting the user experience of Slackware ARM
 
+The creation of this GitHub repo was inspired by a suggestion from Stuart Winter, the lead maintainer of Slackware ARM, seen in this thread on the LinuxQuestions forum ( https://www.linuxquestions.org/questions/slackware-arm-108/user-contributed-links-to-accessory-hardware-required-recommended-by-slackware-arm-4175757312/ ). Links posted on this thread will also be included here, with credit given to the LQ user who posted it.
+
 ## The bare minimum recommended hardware:
 * Your single-board computer of choice and its according power supply
 * A USB multi-card reader ( EXAMPLE: https://www.amazon.com/UGREEN-Adapter-Windows-Surface-Chromebook/dp/B01EFPX9XA )
@@ -17,8 +19,10 @@ Other items can be used, such as NVMe drives if the hardware supports it, and so
   I don't check GitHub as often as I should, so your contributions, valued as they are, may not be added right away, but I'll certainly try to add them in a timely fashion.
 
 ## User-contributed links directory
+Here reside the links to any and all hardware that users of Slackware ARM contribute to this page. Hardware is grouped by the release of Slackware ARM the user is running/targeting, and subgrouped into additional categories based on hardware device type, such as USB, networking, PCI, etc. If a category you'd like to see does not exist, feel free to open an issue suggesting a new category; in most cases, I'd be more than happy to add it if it seems necessary.
 
 ### Releases
+Currently, the only two supported releases of Slackware ARM are: Slackware ARM 15.0, the 32-bit stable release, and Slackware AArch64 -current, the 64-bit development/rolling branch. Once Slackware ARM 15.1 comes out, 32-bit ARM support will be gone. Releases before 15.0 that are EOL (End-Of-Life) may also have links contributed via a separate .md file. Once a currently-supported release becomes EOL, it will be moved to the file for EOL releases.
 
 #### Slackware ARM 15.0 (32-bit)
 ##### USB devices
