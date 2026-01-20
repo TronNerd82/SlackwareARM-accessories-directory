@@ -17,7 +17,7 @@ Other items can be used, such as NVMe drives if the hardware supports it, and so
   Start a pull request with your edits of the README.md file. Include (on a new line below the bottom link of the appropriate category) one or more links to the accessories you'd like added to the directory.
   You must give the name of the product, followed by the link itself enclosed in parentheses ( like this ). Then add a section in brackets [ like this ] with the intended hardware model and the phrase "contributed by 'your GitHub username'" so proper credit can be given. An example might be: 
   
-  Raspberry Pi 4 power cable ( https <colon> // link-to-power-cable <dot> com ) [ Raspberry Pi 4 | contributed by TronNerd82 ]
+  Raspberry Pi 4 power cable ( https : // link-to-power-cable dot com ) [ Raspberry Pi 4 | contributed by TronNerd82 ]
   
   I don't check GitHub as often as I should, so your contributions, valued as they are, may not be added right away, but I'll certainly try to add them in a timely fashion.
 
